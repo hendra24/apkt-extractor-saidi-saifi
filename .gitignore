@@ -1,0 +1,8 @@
+# Ignore all html files
+*.html
+
+# Ignore all csv files
+*.csv
+
+# Ignore directory 
+DATA/
